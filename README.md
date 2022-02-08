@@ -1,5 +1,9 @@
 # Authenticate Bank Notes Using Machine Learning 💵💳
 
+# pull the docker Image 
+### docker pull shamil225/banknote
+
+
 <p align="center">
   <img width="900" height="500" src="Datasets/Violet and Green Start-up Business Animated Presentation.gif">
 </p>
